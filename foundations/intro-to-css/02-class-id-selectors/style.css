@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.ptag {
+    background-color: rgb(239, 127, 127);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.ptag.punique {
+    font-size: 24px;
+}
+
+#div1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#div2 {
+    background-color: hsl(120, 61%, 65%);
+    font-size: 24px;
+    font-weight: bold;
+}
